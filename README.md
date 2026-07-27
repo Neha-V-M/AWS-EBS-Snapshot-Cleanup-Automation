@@ -141,7 +141,6 @@ aws-ebs-snapshot-cleanup-automation/
 │
 ├── lambda_function.py
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
